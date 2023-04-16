@@ -17,6 +17,7 @@ public class TestPerson {
                 .withPhone("3424242424")
                 .build();
 
+
      log.info(person.toString());
 
 

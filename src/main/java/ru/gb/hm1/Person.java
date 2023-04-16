@@ -111,7 +111,6 @@ import java.time.LocalDate;
         public static Builder createBuilder() {
             return new Builder();
         }
-
         public static class Builder {
 
             private final Person person;
