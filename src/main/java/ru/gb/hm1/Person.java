@@ -108,6 +108,7 @@ import java.time.LocalDate;
                     ", gender='" + gender + '\'' +
                     '}';
         }
+
         public static Builder createBuilder() {
             return new Builder();
         }
