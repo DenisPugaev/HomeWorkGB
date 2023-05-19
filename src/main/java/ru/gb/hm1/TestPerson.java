@@ -18,6 +18,7 @@ public class TestPerson {
                 .build();
 
 
+
      log.info(person.toString());
 
 
